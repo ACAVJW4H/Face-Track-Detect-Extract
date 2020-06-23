@@ -1,6 +1,7 @@
-numba
-scikit-learn
-opencv-python
-numpy
+numba==0.44.0
+scipy==1.4.1
+scikit-learn==0.22.1
+opencv-python==3.4.6.27
+numpy==1.16.2
 filterpy
-tensorflow-gpu
+tensorflow==1.15
